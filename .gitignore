@@ -1,0 +1,47 @@
+# .NET
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build outputs
+[Bb]uild/
+[Oo]utput/
+
+# Visual Studio
+.vs/
+*.csproj.user
+
+# SQLite
+*.db
+
+# JSONL
+*.jsonl
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/

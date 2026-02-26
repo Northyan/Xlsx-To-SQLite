@@ -4,7 +4,7 @@
 
 ## 中文
 
-这是一个WPF桌面应用程序，用于将Excel文件转换为SQLite数据库或JSONL文件。
+这是一款操作简单的WPF桌面应用程序，可以一键将Excel文件转换为SQLite数据库或JSONL文件。
 
 ### 功能特性
 
@@ -43,7 +43,7 @@
 
 ## English
 
-This is a WPF desktop application for converting Excel files to SQLite databases or JSONL files.
+This is a simple-to-use WPF desktop application that can convert Excel files to SQLite databases or JSONL files with one click.
 
 ### Features
 

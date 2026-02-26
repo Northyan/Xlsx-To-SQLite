@@ -1,5 +1,7 @@
 # Xlsx To SQLite
 
+![App Icon](Icons/App.ico)
+
 ## 中文
 
 这是一个WPF桌面应用程序，用于将Excel文件转换为SQLite数据库或JSONL文件。

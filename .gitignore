@@ -10,7 +10,7 @@ obj/
 # Build outputs
 [Bb]uild/
 [Oo]utput/
-XlsxToSQLite/
+Xlsx To SQLite/
 
 # Visual Studio
 .vs/

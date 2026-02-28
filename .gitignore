@@ -22,6 +22,11 @@ Xlsx To SQLite/
 # JSONL
 *.jsonl
 
+# Setup files
+*.iss
+*.exe
+*.msi
+
 # OS files
 Thumbs.db
 .DS_Store
